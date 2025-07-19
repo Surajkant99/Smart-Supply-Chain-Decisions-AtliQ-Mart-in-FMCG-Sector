@@ -43,7 +43,7 @@ The management needs a real-time, data-driven solution to monitor and track serv
 
 ## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODZmYTA5MTMtZDE1Yy00ODg1LTk0ZDctNDVkNmRjMzM3NjRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7337079911012081664/)
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7352460841100718080/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
